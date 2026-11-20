@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=MPRIS Notify
+Comment=Show now-playing notification from MPRIS media players
+Exec=mpirs-notify
+Icon=audio-x-generic
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;media;player;notification;mpris;
+StartupNotify=false

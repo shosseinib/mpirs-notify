@@ -1,0 +1,12 @@
+# Place at ~/.config/mpirs-notify/config.ini (or under $XDG_CONFIG_HOME).
+
+[notification]
+timeout_ms = 5000
+
+[art]
+# Directory for temporary artwork files.
+cache_dir = /tmp/mpirs-notify-art
+
+[player]
+# Semicolon-separated fragments of player bus names, e.g. firefox;chromium
+ignore_players =
